@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🛰️ Detecção de Áreas Inundadas com Morfologia Matemática
-### Processamento de Imagens (PDI) aplicado a Sensoriamento Remoto
+### Processamento de Imagens aplicado a Sensoriamento Remoto
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg?logo=jupyter&logoColor=white)](https://jupyter.org/)
