@@ -1,0 +1,6 @@
+
+http://www.dgi.inpe.br/CDSR/
+
+http://www.dgi.inpe.br/CDSR/manage.php?SATELITE=CB2&SENSOR=CCD&INDICE=CB2CCD16810220060804&MODULE=MOSAIC
+
+http://www.dgi.inpe.br/CDSR/manage.php?SATELITE=CB2&SENSOR=CCD&INDICE=CB2CCD16810220051117&MODULE=MOSAIC
